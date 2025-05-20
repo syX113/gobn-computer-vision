@@ -6,3 +6,4 @@ python-dotenv
 scikit-image
 requests
 inference
+chardet

@@ -98,7 +98,7 @@
         }
       ],
       "class_id": 4,
-      "detection_id": "122bb3a9-a43d-42f0-961f-59be23452f52",
+      "detection_id": "df37e4bb-6844-43cb-86a6-57bbdacfe878",
       "image_path": "Stellenbilder-no-augs/test/66229_jpg.rf.d4ba322d0570bb4e119115e226dcb558.jpg",
       "prediction_type": "InstanceSegmentationModel"
     },
@@ -240,7 +240,7 @@
         }
       ],
       "class_id": 4,
-      "detection_id": "5cf25b71-4d64-4d73-b6dc-b22a74b20b3d",
+      "detection_id": "d66b4345-e18d-4b6b-bc05-f6f49ba92c06",
       "image_path": "Stellenbilder-no-augs/test/66229_jpg.rf.d4ba322d0570bb4e119115e226dcb558.jpg",
       "prediction_type": "InstanceSegmentationModel"
     }
