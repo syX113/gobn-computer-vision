@@ -1,11 +1,11 @@
 image,model,red_count,grey_count,has_red,has_grey,red_locations,grey_locations
 38784_jpg.rf.9ea0c7797358707a6c651eab551137a0.jpg,GPT-4.1,1,0,True,False,"center right, on the sidewalk in front of a blue building",
 38784_jpg.rf.9ea0c7797358707a6c651eab551137a0.jpg,Llama 3.2,0,0,False,False,,
-66227_jpg.rf.15f0dc12fe0c7fc90681d1564c221854.jpg,GPT-4.1,1,2,True,True,top right of the cylindrical poster column,"top left of the cylindrical poster column, middle left of the cylindrical poster column"
+66227_jpg.rf.15f0dc12fe0c7fc90681d1564c221854.jpg,GPT-4.1,1,2,True,True,top right of the cylindrical poster stand,"top left of the cylindrical poster stand, middle left of the cylindrical poster stand"
 66227_jpg.rf.15f0dc12fe0c7fc90681d1564c221854.jpg,Llama 3.2,0,0,False,False,,
-66229_jpg.rf.d4ba322d0570bb4e119115e226dcb558.jpg,GPT-4.1,1,1,True,True,top center of the cylindrical marketing poster column,top left of the cylindrical marketing poster column
+66229_jpg.rf.d4ba322d0570bb4e119115e226dcb558.jpg,GPT-4.1,1,1,True,True,"center, top right section of the cylindrical poster column","center, top left section of the cylindrical poster column"
 66229_jpg.rf.d4ba322d0570bb4e119115e226dcb558.jpg,Llama 3.2,0,0,False,False,,
 24495_jpg.rf.e492108a1cedca34e3ef422b743a10f6.jpg,GPT-4.1,1,0,True,False,"center of the image, above the glass railing",
 24495_jpg.rf.e492108a1cedca34e3ef422b743a10f6.jpg,Llama 3.2,0,0,False,False,,
-65392_jpg.rf.50987386d93e4b46a42fa85eb05e0f4b.jpg,GPT-4.1,1,0,True,False,"right side, foreground near the sidewalk",
+65392_jpg.rf.50987386d93e4b46a42fa85eb05e0f4b.jpg,GPT-4.1,1,0,True,False,"right side, foreground, near the sidewalk and grass",
 65392_jpg.rf.50987386d93e4b46a42fa85eb05e0f4b.jpg,Llama 3.2,0,0,False,False,,

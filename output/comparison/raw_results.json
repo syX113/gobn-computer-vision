@@ -36,19 +36,19 @@
   },
   "66227_jpg.rf.15f0dc12fe0c7fc90681d1564c221854.jpg": {
     "gpt4": {
-      "raw_response": "{\n    \"red_placeholders\": {\n        \"count\": 1,\n        \"locations\": [\"top right of the cylindrical poster column\"]\n    },\n    \"grey_placeholders\": {\n        \"count\": 2,\n        \"locations\": [\n            \"top left of the cylindrical poster column\",\n            \"middle left of the cylindrical poster column\"\n        ]\n    },\n    \"has_red_placeholder\": true,\n    \"has_grey_placeholder\": true\n}",
+      "raw_response": "{\n    \"red_placeholders\": {\n        \"count\": 1,\n        \"locations\": [\"top right of the cylindrical poster stand\"]\n    },\n    \"grey_placeholders\": {\n        \"count\": 2,\n        \"locations\": [\"top left of the cylindrical poster stand\", \"middle left of the cylindrical poster stand\"]\n    },\n    \"has_red_placeholder\": true,\n    \"has_grey_placeholder\": true\n}",
       "parsed": {
         "red_placeholders": {
           "count": 1,
           "locations": [
-            "top right of the cylindrical poster column"
+            "top right of the cylindrical poster stand"
           ]
         },
         "grey_placeholders": {
           "count": 2,
           "locations": [
-            "top left of the cylindrical poster column",
-            "middle left of the cylindrical poster column"
+            "top left of the cylindrical poster stand",
+            "middle left of the cylindrical poster stand"
           ]
         },
         "has_red_placeholder": true,
@@ -74,18 +74,18 @@
   },
   "66229_jpg.rf.d4ba322d0570bb4e119115e226dcb558.jpg": {
     "gpt4": {
-      "raw_response": "{\n    \"red_placeholders\": {\n        \"count\": 1,\n        \"locations\": [\"top center of the cylindrical marketing poster column\"]\n    },\n    \"grey_placeholders\": {\n        \"count\": 1,\n        \"locations\": [\"top left of the cylindrical marketing poster column\"]\n    },\n    \"has_red_placeholder\": true,\n    \"has_grey_placeholder\": true\n}",
+      "raw_response": "{\n    \"red_placeholders\": {\n        \"count\": 1,\n        \"locations\": [\"center, top right section of the cylindrical poster column\"]\n    },\n    \"grey_placeholders\": {\n        \"count\": 1,\n        \"locations\": [\"center, top left section of the cylindrical poster column\"]\n    },\n    \"has_red_placeholder\": true,\n    \"has_grey_placeholder\": true\n}",
       "parsed": {
         "red_placeholders": {
           "count": 1,
           "locations": [
-            "top center of the cylindrical marketing poster column"
+            "center, top right section of the cylindrical poster column"
           ]
         },
         "grey_placeholders": {
           "count": 1,
           "locations": [
-            "top left of the cylindrical marketing poster column"
+            "center, top left section of the cylindrical poster column"
           ]
         },
         "has_red_placeholder": true,
@@ -146,12 +146,12 @@
   },
   "65392_jpg.rf.50987386d93e4b46a42fa85eb05e0f4b.jpg": {
     "gpt4": {
-      "raw_response": "{\n    \"red_placeholders\": {\n        \"count\": 1,\n        \"locations\": [\"right side, foreground near the sidewalk\"]\n    },\n    \"grey_placeholders\": {\n        \"count\": 0,\n        \"locations\": []\n    },\n    \"has_red_placeholder\": true,\n    \"has_grey_placeholder\": false\n}",
+      "raw_response": "{\n    \"red_placeholders\": {\n        \"count\": 1,\n        \"locations\": [\"right side, foreground, near the sidewalk and grass\"]\n    },\n    \"grey_placeholders\": {\n        \"count\": 0,\n        \"locations\": []\n    },\n    \"has_red_placeholder\": true,\n    \"has_grey_placeholder\": false\n}",
       "parsed": {
         "red_placeholders": {
           "count": 1,
           "locations": [
-            "right side, foreground near the sidewalk"
+            "right side, foreground, near the sidewalk and grass"
           ]
         },
         "grey_placeholders": {
