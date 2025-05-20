@@ -1,0 +1,182 @@
+{
+  "38784_jpg.rf.9ea0c7797358707a6c651eab551137a0.jpg": {
+    "gpt4": {
+      "raw_response": "{\n    \"red_placeholders\": {\n        \"count\": 1,\n        \"locations\": [\"center right, on the sidewalk in front of a blue building\"]\n    },\n    \"grey_placeholders\": {\n        \"count\": 0,\n        \"locations\": []\n    },\n    \"has_red_placeholder\": true,\n    \"has_grey_placeholder\": false\n}",
+      "parsed": {
+        "red_placeholders": {
+          "count": 1,
+          "locations": [
+            "center right, on the sidewalk in front of a blue building"
+          ]
+        },
+        "grey_placeholders": {
+          "count": 0,
+          "locations": []
+        },
+        "has_red_placeholder": true,
+        "has_grey_placeholder": false
+      }
+    },
+    "llama": {
+      "raw_response": "Error: Response ended prematurely",
+      "parsed": {
+        "red_placeholders": {
+          "count": 0,
+          "locations": []
+        },
+        "grey_placeholders": {
+          "count": 0,
+          "locations": []
+        },
+        "has_red_placeholder": false,
+        "has_grey_placeholder": false,
+        "error": "Response ended prematurely"
+      }
+    }
+  },
+  "66227_jpg.rf.15f0dc12fe0c7fc90681d1564c221854.jpg": {
+    "gpt4": {
+      "raw_response": "{\n    \"red_placeholders\": {\n        \"count\": 1,\n        \"locations\": [\"top right of the cylindrical poster stand\"]\n    },\n    \"grey_placeholders\": {\n        \"count\": 2,\n        \"locations\": [\n            \"top left of the cylindrical poster stand\",\n            \"bottom left of the cylindrical poster stand\"\n        ]\n    },\n    \"has_red_placeholder\": true,\n    \"has_grey_placeholder\": true\n}",
+      "parsed": {
+        "red_placeholders": {
+          "count": 1,
+          "locations": [
+            "top right of the cylindrical poster stand"
+          ]
+        },
+        "grey_placeholders": {
+          "count": 2,
+          "locations": [
+            "top left of the cylindrical poster stand",
+            "bottom left of the cylindrical poster stand"
+          ]
+        },
+        "has_red_placeholder": true,
+        "has_grey_placeholder": true
+      }
+    },
+    "llama": {
+      "raw_response": "Error: Response ended prematurely",
+      "parsed": {
+        "red_placeholders": {
+          "count": 0,
+          "locations": []
+        },
+        "grey_placeholders": {
+          "count": 0,
+          "locations": []
+        },
+        "has_red_placeholder": false,
+        "has_grey_placeholder": false,
+        "error": "Response ended prematurely"
+      }
+    }
+  },
+  "66229_jpg.rf.d4ba322d0570bb4e119115e226dcb558.jpg": {
+    "gpt4": {
+      "raw_response": "{\n    \"red_placeholders\": {\n        \"count\": 1,\n        \"locations\": [\"top center-right on the cylindrical poster column\"]\n    },\n    \"grey_placeholders\": {\n        \"count\": 1,\n        \"locations\": [\"top center-left on the cylindrical poster column\"]\n    },\n    \"has_red_placeholder\": true,\n    \"has_grey_placeholder\": true\n}",
+      "parsed": {
+        "red_placeholders": {
+          "count": 1,
+          "locations": [
+            "top center-right on the cylindrical poster column"
+          ]
+        },
+        "grey_placeholders": {
+          "count": 1,
+          "locations": [
+            "top center-left on the cylindrical poster column"
+          ]
+        },
+        "has_red_placeholder": true,
+        "has_grey_placeholder": true
+      }
+    },
+    "llama": {
+      "raw_response": "Error: Response ended prematurely",
+      "parsed": {
+        "red_placeholders": {
+          "count": 0,
+          "locations": []
+        },
+        "grey_placeholders": {
+          "count": 0,
+          "locations": []
+        },
+        "has_red_placeholder": false,
+        "has_grey_placeholder": false,
+        "error": "Response ended prematurely"
+      }
+    }
+  },
+  "24495_jpg.rf.e492108a1cedca34e3ef422b743a10f6.jpg": {
+    "gpt4": {
+      "raw_response": "{\n    \"red_placeholders\": {\n        \"count\": 1,\n        \"locations\": [\"center of the image, above the glass railing\"]\n    },\n    \"grey_placeholders\": {\n        \"count\": 0,\n        \"locations\": []\n    },\n    \"has_red_placeholder\": true,\n    \"has_grey_placeholder\": false\n}",
+      "parsed": {
+        "red_placeholders": {
+          "count": 1,
+          "locations": [
+            "center of the image, above the glass railing"
+          ]
+        },
+        "grey_placeholders": {
+          "count": 0,
+          "locations": []
+        },
+        "has_red_placeholder": true,
+        "has_grey_placeholder": false
+      }
+    },
+    "llama": {
+      "raw_response": "Error: Response ended prematurely",
+      "parsed": {
+        "red_placeholders": {
+          "count": 0,
+          "locations": []
+        },
+        "grey_placeholders": {
+          "count": 0,
+          "locations": []
+        },
+        "has_red_placeholder": false,
+        "has_grey_placeholder": false,
+        "error": "Response ended prematurely"
+      }
+    }
+  },
+  "65392_jpg.rf.50987386d93e4b46a42fa85eb05e0f4b.jpg": {
+    "gpt4": {
+      "raw_response": "{\n    \"red_placeholders\": {\n        \"count\": 1,\n        \"locations\": [\"right side, foreground, near the sidewalk and grass\"]\n    },\n    \"grey_placeholders\": {\n        \"count\": 0,\n        \"locations\": []\n    },\n    \"has_red_placeholder\": true,\n    \"has_grey_placeholder\": false\n}",
+      "parsed": {
+        "red_placeholders": {
+          "count": 1,
+          "locations": [
+            "right side, foreground, near the sidewalk and grass"
+          ]
+        },
+        "grey_placeholders": {
+          "count": 0,
+          "locations": []
+        },
+        "has_red_placeholder": true,
+        "has_grey_placeholder": false
+      }
+    },
+    "llama": {
+      "raw_response": "Error: Response ended prematurely",
+      "parsed": {
+        "red_placeholders": {
+          "count": 0,
+          "locations": []
+        },
+        "grey_placeholders": {
+          "count": 0,
+          "locations": []
+        },
+        "has_red_placeholder": false,
+        "has_grey_placeholder": false,
+        "error": "Response ended prematurely"
+      }
+    }
+  }
+}
